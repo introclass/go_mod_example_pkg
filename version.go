@@ -1,4 +1,4 @@
-// Create: 2019/06/04 19:21:00 Change: 2019/12/31 14:58:36
+// Create: 2019/06/04 19:21:00 Change: 2019/12/31 15:07:23
 // FileName: version.go
 // Copyright (C) 2019 lijiaocn <lijiaocn@foxmail.com>
 //
@@ -7,5 +7,5 @@
 package mod
 
 func Version() {
-	println("v1.0.0")
+	println("v3.0.0")
 }
