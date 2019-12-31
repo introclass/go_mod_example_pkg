@@ -1,4 +1,4 @@
-// Create: 2019/06/04 19:21:00 Change: 2019/12/31 14:50:52
+// Create: 2019/06/04 19:21:00 Change: 2019/12/31 14:58:10
 // FileName: version.go
 // Copyright (C) 2019 lijiaocn <lijiaocn@foxmail.com>
 //
@@ -6,6 +6,6 @@
 
 package mod
 
-func Vesrion() {
+func Version() {
 	println("v0.0.0")
 }
